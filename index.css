@@ -1,0 +1,71 @@
+h1:hover{
+    color:pink;
+    text-align: center;
+    font-style: italic;
+}
+
+p:hover{
+    color:rgb(237, 123, 237);
+    background-color: rgb(129, 233, 129);
+    font-weight:bold;
+}
+
+.bild{
+
+    text-align: center;
+    margin: 450px
+}
+
+marquee{
+    color:cornflowerblue;
+    font-weight: bold;
+  
+}
+
+
+h4{
+
+    font-style: italic;
+}
+
+li{
+    text-align: left;
+}
+
+
+    
+
+body:hover{
+    background-color: aqua;
+    text-align: left;
+    margin-right: 20px;
+    margin-left: 20x;
+    margin-top: 100px;
+    margin-bottom: 100px;
+  
+}
+
+a[href*='watch?v=MHPGeQD8TvI']{
+    color:coral;
+}
+
+
+a[href*='watch?v=mw0LGzIKvoo&t=182s']{
+    color:coral;
+}
+
+a[href*='home']{
+    color:coral;
+}
+
+
+
+.bakgrund{
+  background-color: yellow;
+}
+
+.bakgrund:hover{
+    background-color: aqua;
+    
+}
+
